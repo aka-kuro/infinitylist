@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>Antena 3</title>        
+<title>A 3 series</title>        
 <urlsolve>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on</urlsolve>
-<thumbnail>https://k50.kn3.net/C/7/F/0/3/5/78D.jpg</thumbnail>
+<thumbnail>http://www.panoramaaudiovisual.com/wp-content/uploads/2015/11/A-tres-Series.jpg</thumbnail>
 <fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
 </item>
 
+<item>
+<title>Antena 3</title>        
+<urlsolve>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8</urlsolve>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png</thumbnail>
+<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
+</item>
