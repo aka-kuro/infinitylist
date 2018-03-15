@@ -2,7 +2,7 @@
 
 <item>
 <title>La 1</title>        
-<urlsolve>http://37.187.128.169:8000/live/nuevotest/test/10.ts</urlsolve>
+<urlsolve>http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8</urlsolve>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png</thumbnail>
 <fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
 </item>
@@ -99,6 +99,13 @@
 </item>
 
 <item>
+<title>Nova</title>        
+<urlsolve>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8</urlsolve>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_logo_2010.png</thumbnail>
+<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
+</item>
+
+<item>
 <title>Mega</title>        
 <urlsolve>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8</urlsolve>
 <thumbnail>https://i.imgur.com/kLzKyaA.jpg</thumbnail>
@@ -140,3 +147,5 @@
 <thumbnail>https://i.imgur.com/kLzKyaA.jpg</thumbnail>
 <fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
 </item>
+
+
