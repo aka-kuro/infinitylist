@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>A 3 series</title>        
-<urlsolve>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on</urlsolve>
-<thumbnail>http://www.panoramaaudiovisual.com/wp-content/uploads/2015/11/A-tres-Series.jpg</thumbnail>
-<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
-</item>
-
-<item>
-<title>A 3 series opc 2</title>        
-<urlsolve>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8</urlsolve>
-<thumbnail>http://www.panoramaaudiovisual.com/wp-content/uploads/2015/11/A-tres-Series.jpg</thumbnail>
-<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
-</item>
-
-<item>
 <title>Antena 3</title>        
 <urlsolve>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8</urlsolve>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png</thumbnail>
@@ -29,29 +15,22 @@
 </item>
 
 <item>
-<title>Neox</title>        
-<urlsolve>http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_2_av-b.m3u8</urlsolve>
-<thumbnail>http://www.antena3.com/clipping/2014/09/08/00334/30.jpg</thumbnail>
-<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
-</item>
-
-<item>
 <title>Cuatro</title>
-<urlsolve>http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/616/index.m3u8</urlsolve>
-<thumbnail>http://www.futbolprimera.es/files/cuatro.jpg</thumbnail>
-<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
-</item>
-
-<item>
-<title>Cuatro opc 2</title>
-<urlsolve>http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/616/index.m3u8</urlsolve>
-<thumbnail>http://www.futbolprimera.es/files/cuatro.jpg</thumbnail>
-<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
-</item>
-
-<item>
-<title>Cuatro opc 2</title>
 <urlsolve>http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream2/streamPlaylist.m3u8</urlsolve>
+<thumbnail>http://www.futbolprimera.es/files/cuatro.jpg</thumbnail>
+<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
+</item>
+
+<item>
+<title>Cuatro opc 2</title>
+<urlsolve>http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/616/index.m3u8</urlsolve>
+<thumbnail>http://www.futbolprimera.es/files/cuatro.jpg</thumbnail>
+<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
+</item>
+
+<item>
+<title>Cuatro opc 3</title>
+<urlsolve>http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/616/index.m3u8</urlsolve>
 <thumbnail>http://www.futbolprimera.es/files/cuatro.jpg</thumbnail>
 <fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
 </item>
@@ -92,8 +71,29 @@
 </item>
 
 <item>
-<title>boing</title>
-<urlsolve>https://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_4.m3u8</urlsolve>
-<thumbnail>http://www.futbolprimera.es/files/cuatro.jpg</thumbnail>
+<title>A 3 series</title>        
+<urlsolve>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on</urlsolve>
+<thumbnail>http://www.panoramaaudiovisual.com/wp-content/uploads/2015/11/A-tres-Series.jpg</thumbnail>
+<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
+</item>
+
+<item>
+<title>A 3 series opc 2</title>        
+<urlsolve>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8</urlsolve>
+<thumbnail>http://www.panoramaaudiovisual.com/wp-content/uploads/2015/11/A-tres-Series.jpg</thumbnail>
+<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
+</item>
+
+<item>
+<title>Neox</title>        
+<urlsolve>http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_2_av-b.m3u8</urlsolve>
+<thumbnail>http://www.antena3.com/clipping/2014/09/08/00334/30.jpg</thumbnail>
+<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
+</item>
+
+<item>
+<title>Divinity</title>        
+<urlsolve>https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8</urlsolve>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png</thumbnail>
 <fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
 </item>
