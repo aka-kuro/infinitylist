@@ -114,8 +114,15 @@
 </item>
 
 <item>
-<title>	Mega</title>        
+<title>Mega</title>        
 <urlsolve>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8</urlsolve>
+<thumbnail>https://i.imgur.com/kLzKyaA.jpg</thumbnail>
+<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
+</item>
+
+<item>
+<title>Discovery max</title>        
+<urlsolve>http://managercw.com:8000/live/muhammed/muhammed123/5218.ts</urlsolve>
 <thumbnail>https://i.imgur.com/kLzKyaA.jpg</thumbnail>
 <fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
 </item>
