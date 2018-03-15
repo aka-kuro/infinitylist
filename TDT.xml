@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<item>
+<title>La 1</title>        
+<urlsolve>http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/547.m3u8</urlsolve>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png</thumbnail>
+<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
+</item>
 
 <item>
 <title>Antena 3</title>        
@@ -134,4 +140,3 @@
 <thumbnail>https://i.imgur.com/kLzKyaA.jpg</thumbnail>
 <fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
 </item>
-
