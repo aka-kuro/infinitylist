@@ -50,16 +50,37 @@
 </item>
 
 <item>
+<title>Cuatro opc 2</title>
+<urlsolve>http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream2/streamPlaylist.m3u8</urlsolve>
+<thumbnail>http://www.futbolprimera.es/files/cuatro.jpg</thumbnail>
+<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
+</item>
+
+<item>
 <title>Telecinco</title>
 <urlsolve>http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/617/index.m3u8</urlsolve>
-<thumbnail>http://www.futbolprimera.es/files/cuatro.jpg</thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Telecinco_2012.svg/1024px-Telecinco_2012.svg.png</thumbnail>
+<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
+</item>
+
+<item>
+<title>Telecinco opc 2</title>
+<urlsolve>http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream2/streamPlaylist.m3u8</urlsolve>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Telecinco_2012.svg/1024px-Telecinco_2012.svg.png</thumbnail>
 <fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
 </item>
 
 <item>
 <title>La sexta</title>
 <urlsolve>http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/618/index.m3u8</urlsolve>
-<thumbnail>http://www.futbolprimera.es/files/cuatro.jpg</thumbnail>
+<thumbnail>http://www.panoramaaudiovisual.com/wp-content/uploads/2016/04/laSexta_NuevoLogo-325x289.jpg</thumbnail>
+<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
+</item>
+
+<item>
+<title>La sexta opc 2</title>
+<urlsolve>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8</urlsolve>
+<thumbnail>http://www.panoramaaudiovisual.com/wp-content/uploads/2016/04/laSexta_NuevoLogo-325x289.jpg</thumbnail>
 <fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
 </item>
 
