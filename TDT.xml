@@ -3,7 +3,7 @@
 <item>
 <title>La 1</title>        
 <urlsolve>http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8</urlsolve>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png</thumbnail>
+<thumbnail>https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE.jpgx</thumbnail>
 <fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
 </item>
 
@@ -120,6 +120,13 @@
 </item>
 
 <item>
+<title>Divinity</title>        
+<urlsolve>https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8</urlsolve>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png</thumbnail>
+<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
+</item>
+
+<item>
 <title>13 tv</title>        
 <urlsolve>http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8</urlsolve>
 <thumbnail>http://www.axartel.es/assets/img/sliders/tv-canales/tv-13tv.jpg</thumbnail>
@@ -148,4 +155,16 @@
 <fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
 </item>
 
+<item>
+<title>Be Mad tv</title>        
+<urlsolve>https://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_1.m3u8</urlsolve>
+<thumbnail>https://cdn.sincroguia.tv/uploads/images/b/e/-/xbe-mad-1.jpg.pagespeed.ic.rDna1IN19j.jpg</thumbnail>
+<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
+</item>
 
+<item>
+<title>Dmax</title>        
+<urlsolve>http://xxedge166.livesports.pw/live/verdmax4c05ab947ed6eac4e205909/chunklist.m3u8</urlsolve>
+<thumbnail>http://tecnotv.info/logoss/dmax.png</thumbnail>
+<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
+</item>
