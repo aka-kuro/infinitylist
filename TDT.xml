@@ -93,6 +93,13 @@
 </item>
 
 <item>
+<title>Mega</title>        
+<urlsolve>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8</urlsolve>
+<thumbnail>https://i.imgur.com/kLzKyaA.jpg</thumbnail>
+<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
+</item>
+
+<item>
 <title>Divinity</title>        
 <urlsolve>https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8</urlsolve>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png</thumbnail>
@@ -113,12 +120,6 @@
 <fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
 </item>
 
-<item>
-<title>Mega</title>        
-<urlsolve>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8</urlsolve>
-<thumbnail>https://i.imgur.com/kLzKyaA.jpg</thumbnail>
-<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
-</item>
 
 <item>
 <title>Eitb</title>        
@@ -128,8 +129,8 @@
 </item>
 
 <item>
-<title>24 h</title>        
-<urlsolve>http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/master.m3u8</urlsolve></urlsolve>
+<title>clan</title>        
+<urlsolve>http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/569.m3u8</urlsolve>
 <thumbnail>https://i.imgur.com/kLzKyaA.jpg</thumbnail>
 <fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
 </item>
