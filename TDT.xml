@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
 <item>
 <title>Antena 3</title>        
+<urlsolve>http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8</urlsolve>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png</thumbnail>
+<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
+</item>
+
+<item>
+<title>Antena 3 opc 2</title>        
 <urlsolve>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8</urlsolve>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png</thumbnail>
 <fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
@@ -99,8 +107,16 @@
 </item>
 
 <item>
-<title>Canal 24 h</title>        
-<urlsolve>http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/master.m3u8</urlsolve>
+<title>13 tv opc 2</title>        
+<urlsolve>http://streaming-fr02.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/playlist.m3u8</urlsolve>
+<thumbnail>http://www.axartel.es/assets/img/sliders/tv-canales/tv-13tv.jpg</thumbnail>
+<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
+</item>
+
+<item>
+<title>	Mega</title>        
+<urlsolve>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8</urlsolve>
 <thumbnail>https://i.imgur.com/kLzKyaA.jpg</thumbnail>
 <fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
 </item>
+
