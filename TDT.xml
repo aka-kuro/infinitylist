@@ -120,9 +120,9 @@
 </item>
 
 <item>
-<title>Divinity opc 2</title>        
+<title>FDF</title>        
 <urlsolve>https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8</urlsolve>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png</thumbnail>
+<thumbnail>https://pbs.twimg.com/profile_images/744781470946852864/nz8sp439.jpg</thumbnail>
 <fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
 </item>
 
@@ -143,20 +143,27 @@
 <item>
 <title>clan</title>        
 <urlsolve>http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/569.m3u8</urlsolve>
-<thumbnail>https://www.google.es/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwii6tW2se_ZAhVDSBQKHZYvCWUQjRx6BAgAEAU&url=http%3A%2F%2Fwww.rtve.es%2Finfantil%2Fseries%2F&psig=AOvVaw1JAZ_4UsjQQYSnCwDa1Zt1&ust=1521239642652583</thumbnail>
+<thumbnail>https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/f7/0c/9d/f70c9d57-0e3f-9421-9c53-dc604527b6f9/AppIcon-1x_U007emarketing-85-220-9.png/246x0w.jpg</thumbnail>
+<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
+</item>
+
+<item>
+<title>Boin</title>        
+<urlsolve>http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/569.m3u8</urlsolve>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/1200px-Boing.svg.png</thumbnail>
 <fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
 </item>
 
 <item>
 <title>Be Mad tv</title>        
 <urlsolve>https://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_1.m3u8</urlsolve>
-<thumbnail>https://cdn.sincroguia.tv/uploads/images/b/e/-/xbe-mad-1.jpg.pagespeed.ic.rDna1IN19j.jpg</thumbnail>
+<thumbnail>https://es.wikipedia.org/wiki/Be_Mad#/media/File:Be_Mad_TV.svg</thumbnail>
 <fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
 </item>
 
 <item>
 <title>Dmax</title>        
 <urlsolve>http://xxedge166.livesports.pw/live/verdmax4c05ab947ed6eac4e205909/chunklist.m3u8</urlsolve>
-<thumbnail>http://tecnotv.info/logoss/dmax.png</thumbnail>
+<thumbnail>http://www.formulatv.com/fotos/a/185000/185004/cllcclczyfxmjej9tc52bcab48133ce_discovery-max_m.jpg</thumbnail>
 <fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
 </item>
