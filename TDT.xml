@@ -64,13 +64,6 @@
 </item>
 
 <item>
-<title>Neox</title>
-<urlsolve>http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_2_av-b.m3u8?sd=10&rebase=on</urlsolve>
-<thumbnail>http://www.futbolprimera.es/files/cuatro.jpg</thumbnail>
-<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
-</item>
-
-<item>
 <title>A 3 series</title>        
 <urlsolve>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on</urlsolve>
 <thumbnail>http://www.panoramaaudiovisual.com/wp-content/uploads/2015/11/A-tres-Series.jpg</thumbnail>
@@ -95,5 +88,19 @@
 <title>Divinity</title>        
 <urlsolve>https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8</urlsolve>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png</thumbnail>
+<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
+</item>
+
+<item>
+<title>13 tv</title>        
+<urlsolve>http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8</urlsolve>
+<thumbnail>http://www.axartel.es/assets/img/sliders/tv-canales/tv-13tv.jpg</thumbnail>
+<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
+</item>
+
+<item>
+<title>Canal 24 h</title>        
+<urlsolve>http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/master.m3u8</urlsolve>
+<thumbnail>https://i.imgur.com/kLzKyaA.jpg</thumbnail>
 <fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
 </item>
