@@ -1,169 +1,34 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1200px-Logo_TVE-1.svg.png",La 1
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_0400_av-p.m3u8?sd=10&rebase=on
 
-<item>
-<title>La 1</title>        
-<urlsolve>http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8</urlsolve>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1200px-TVE.svg.png</thumbnail>
-<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
-</item>
+#EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg",Antena 3
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/615/index.m3u8
 
-<item>
-<title>Antena 3</title>        
-<urlsolve>http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8</urlsolve>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png</thumbnail>
-<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
-</item>
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2017/10/30/ixbI2ViShbP7QrJPB8OPD2.jpg?w=1024",Cuatro
+http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1058883651.m3u8
 
-<item>
-<title>Antena 3 opc 2</title>        
-<urlsolve>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8</urlsolve>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png</thumbnail>
-<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
-</item>
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png",La Sexta
+http://iptvp.cf/emision/lasexta.m3u8
 
-<item>
-<title>Antena 3 internacional</title>        
-<urlsolve>http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8</urlsolve>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png</thumbnail>
-<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
-</item>
+#EXTINF:-1 tvg-logo="http://www.mundodeportivo.com/r/GODO/MD/p3/Futbol/Imagenes/2016/10/18/img_hcoca_20161018-184125_imagenes_md_otras_fuentes_madridtv.jpg",Real Madrid TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
 
-<item>
-<title>Cuatro</title>
-<urlsolve>http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream2/streamPlaylist.m3u8</urlsolve>
-<thumbnail>http://www.futbolprimera.es/files/cuatro.jpg</thumbnail>
-<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
-</item>
+#EXTINF:-1 tvg-logo="http://www.formulatv.com/images/noticias/52100/52199/1_517bdcfe12.jpg",ATRESERIES
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_1_av-p.m3u8?sd=10&rebase=on
 
-<item>
-<title>Cuatro opc 2</title>
-<urlsolve>http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/616/index.m3u8</urlsolve>
-<thumbnail>http://www.futbolprimera.es/files/cuatro.jpg</thumbnail>
-<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
-</item>
+#EXTINF:-1 tvg-logo="https://cdn.appgrid.accedo.tv/content/file/58382c0392feb20217b6d18a",FDF
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 
-<item>
-<title>Cuatro opc 3</title>
-<urlsolve>http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/616/index.m3u8</urlsolve>
-<thumbnail>http://www.futbolprimera.es/files/cuatro.jpg</thumbnail>
-<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
-</item>
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/1200px-DMax_Espa%C3%B1a.svg.png",DMAX
+http://copo7.mitopo.me/live/dmax/index.m3u8?token=p1Wy5CwSqEIczmanZiszzQ&expires=1519074186
 
-<item>
-<title>Telecinco</title>
-<urlsolve>http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/617/index.m3u8</urlsolve>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Telecinco_2012.svg/1024px-Telecinco_2012.svg.png</thumbnail>
-<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
-</item>
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2000px-Neox.svg.png",NEOX
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-p.m3u8?sd=10&rebase=on
 
-<item>
-<title>Telecinco opc 2</title>
-<urlsolve>http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream2/streamPlaylist.m3u8</urlsolve>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Telecinco_2012.svg/1024px-Telecinco_2012.svg.png</thumbnail>
-<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
-</item>
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1200px-Be_Mad_TV.svg.png",BE MAD
+https://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_4.m3u8
 
-<item>
-<title>La sexta</title>
-<urlsolve>http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/618/index.m3u8</urlsolve>
-<thumbnail>http://www.panoramaaudiovisual.com/wp-content/uploads/2016/04/laSexta_NuevoLogo-325x289.jpg</thumbnail>
-<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
-</item>
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png",DIVINITY
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 
-<item>
-<title>La sexta opc 2</title>
-<urlsolve>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8</urlsolve>
-<thumbnail>http://www.panoramaaudiovisual.com/wp-content/uploads/2016/04/laSexta_NuevoLogo-325x289.jpg</thumbnail>
-<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
-</item>
-
-<item>
-<title>A 3 series</title>        
-<urlsolve>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on</urlsolve>
-<thumbnail>http://www.panoramaaudiovisual.com/wp-content/uploads/2015/11/A-tres-Series.jpg</thumbnail>
-<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
-</item>
-
-<item>
-<title>A 3 series opc 2</title>        
-<urlsolve>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8</urlsolve>
-<thumbnail>http://www.panoramaaudiovisual.com/wp-content/uploads/2015/11/A-tres-Series.jpg</thumbnail>
-<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
-</item>
-
-<item>
-<title>Neox</title>        
-<urlsolve>http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_2_av-b.m3u8</urlsolve>
-<thumbnail>http://www.antena3.com/clipping/2014/09/08/00334/30.jpg</thumbnail>
-<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
-</item>
-
-<item>
-<title>Nova</title>        
-<urlsolve>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8</urlsolve>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_logo_2010.png</thumbnail>
-<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
-</item>
-
-<item>
-<title>Mega</title>        
-<urlsolve>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8</urlsolve>
-<thumbnail>https://www.google.es/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiZq4mRse_ZAhWF1xQKHZ0yAPwQjRx6BAgAEAU&url=http%3A%2F%2Fdirectostv.teleame.com%2Fmegatvendirecto%2F&psig=AOvVaw2-YurSxoAljxNlbvd-IUb5&ust=1521239561323334</thumbnail>
-<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
-</item>
-
-<item>
-<title>Divinity</title>        
-<urlsolve>https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8</urlsolve>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png</thumbnail>
-<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
-</item>
-
-<item>
-<title>FDF</title>        
-<urlsolve>https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8</urlsolve>
-<thumbnail>https://pbs.twimg.com/profile_images/744781470946852864/nz8sp439.jpg</thumbnail>
-<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
-</item>
-
-<item>
-<title>13 tv</title>        
-<urlsolve>http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8</urlsolve>
-<thumbnail>http://www.axartel.es/assets/img/sliders/tv-canales/tv-13tv.jpg</thumbnail>
-<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
-</item>
-
-<item>
-<title>13 tv opc 2</title>        
-<urlsolve>http://streaming-fr02.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/playlist.m3u8</urlsolve>
-<thumbnail>http://www.axartel.es/assets/img/sliders/tv-canales/tv-13tv.jpg</thumbnail>
-<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
-</item>
-
-<item>
-<title>clan</title>        
-<urlsolve>http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/569.m3u8</urlsolve>
-<thumbnail>https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/f7/0c/9d/f70c9d57-0e3f-9421-9c53-dc604527b6f9/AppIcon-1x_U007emarketing-85-220-9.png/246x0w.jpg</thumbnail>
-<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
-</item>
-
-<item>
-<title>Boin</title>        
-<urlsolve>http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/569.m3u8</urlsolve>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/1200px-Boing.svg.png</thumbnail>
-<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
-</item>
-
-<item>
-<title>Be Mad tv</title>        
-<urlsolve>https://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_1.m3u8</urlsolve>
-<thumbnail>https://es.wikipedia.org/wiki/Be_Mad#/media/File:Be_Mad_TV.svg</thumbnail>
-<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
-</item>
-
-<item>
-<title>Dmax</title>        
-<urlsolve>http://xxedge166.livesports.pw/live/verdmax4c05ab947ed6eac4e205909/chunklist.m3u8</urlsolve>
-<thumbnail>http://www.formulatv.com/fotos/a/185000/185004/cllcclczyfxmjej9tc52bcab48133ce_discovery-max_m.jpg</thumbnail>
-<fanart>https://k50.kn3.net/5/9/E/2/C/8/953.jpg</fanart>
-</item>
