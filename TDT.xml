@@ -47,7 +47,7 @@ http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-p.m3u8?sd=10&re
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_logo_2010.png",Nova
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.google.es/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiZq4mRse_ZAhWF1xQKHZ0yAPwQjRx6BAgAEAU&url=http%3A%2F%2Fdirectostv.teleame.com%2Fmegatvendirecto%2F&psig=AOvVaw2-YurSxoAljxNlbvd-IUb5&ust=1521239561323334",Mega
+#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/media/efcc6e05c16879f7b1903cec874f640e.jpeg",Mega
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1200px-Be_Mad_TV.svg.png",Be mad
