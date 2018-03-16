@@ -8,6 +8,9 @@ http://playlist.onlybest.tv/ru/channel/b83f90f30e3631a6ef13fc90e970a187/613/inde
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/1200px-Movistar_F%C3%BAtbol.svg.png",M. Futbol HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/1200px-Movistar_F%C3%BAtbol.svg.png",M. Futbol HD opcion 2
+http://66.70.176.48:8000/live/Xjn7EWSd1V/tdUEtw11y8/3126.ts
+
 #EXTINF:-1 tvg-logo="https://d2jljza7x0a5yy.cloudfront.net/media/k2/items/cache/e56fe2c6ade8ff7a08cfbd6998b41ff9_XL.jpg?t=1468390616",LaLiga TV Bar HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
 
@@ -25,3 +28,6 @@ http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?iptv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ca/e/e0/Barcatv_logo2004.png",BarÇa TV
 http://xxedge444.livesports.pw/live/verbarca4fe204ac48d65e8c9e0569/index.m3u8?token=XN14_DNkRZ240MLXqjtoDA&expires=1519063041
+
+#EXTINF:-1,LaLiga TV Bar HD
+http://66.70.176.48:8000/live/Xjn7EWSd1V/tdUEtw11y8/3130.ts
