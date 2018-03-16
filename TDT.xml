@@ -30,9 +30,6 @@ http://iptvp.cf/emision/lasexta.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png",La Sexta opc 2
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.mundodeportivo.com/r/GODO/MD/p3/Futbol/Imagenes/2016/10/18/img_hcoca_20161018-184125_imagenes_md_otras_fuentes_madridtv.jpg",Real Madrid TV HD
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.formulatv.com/images/noticias/52100/52199/1_517bdcfe12.jpg",Atreseries
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_1_av-p.m3u8?sd=10&rebase=on
 
