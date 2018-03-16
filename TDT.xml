@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U infinitylist TDT
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1200px-Logo_TVE-1.svg.png",La 1
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_0400_av-p.m3u8?sd=10&rebase=on
 
@@ -12,12 +13,9 @@ http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2017/10/30/ixbI2ViShbP7QrJPB8OPD2.jpg?w=1024",Cuatro
-http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1058883651.m3u8
-
-#EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2017/10/30/ixbI2ViShbP7QrJPB8OPD2.jpg?w=1024",Cuatro opc 2
 http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream2/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2017/10/30/ixbI2ViShbP7QrJPB8OPD2.jpg?w=1024",Cuatro opc 3
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2017/10/30/ixbI2ViShbP7QrJPB8OPD2.jpg?w=1024",Cuatro opc 2
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/616/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Telecinco_2012.svg/1024px-Telecinco_2012.svg.png",Telecinco
