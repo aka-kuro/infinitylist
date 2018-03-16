@@ -2,8 +2,14 @@
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/841657248896151552/CFQkVWxP.jpg",Movistar F1
 http://185.231.160.49/651/1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/841657248896151552/CFQkVWxP.jpg",Movistar F1 opc 2
+http://163.172.202.69:4022/formula1hd
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Movistar_Moto_GP.svg/2000px-Movistar_Moto_GP.svg.png",Movistar MOTOGP
 http://playlist.onlybest.tv/ru/channel/b83f90f30e3631a6ef13fc90e970a187/613/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Movistar_Moto_GP.svg/2000px-Movistar_Moto_GP.svg.png",Movistar MOTOGP opc 2
+http://163.172.202.69:4022/motogphd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/1200px-Movistar_F%C3%BAtbol.svg.png",M. Futbol HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8
@@ -14,7 +20,7 @@ http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/575/inde
 #EXTINF:-1 tvg-logo="https://d2jljza7x0a5yy.cloudfront.net/media/k2/items/cache/e56fe2c6ade8ff7a08cfbd6998b41ff9_XL.jpg?t=1468390616",LaLiga TV Bar HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://d2jljza7x0a5yy.cloudfront.net/media/k2/items/cache/e56fe2c6ade8ff7a08cfbd6998b41ff9_XL.jpg?t=1468390616",LaLiga TV Bar HD opc2
+#EXTINF:-1 tvg-logo="https://d2jljza7x0a5yy.cloudfront.net/media/k2/items/cache/e56fe2c6ade8ff7a08cfbd6998b41ff9_XL.jpg?t=1468390616",LaLiga TV Bar HD opc 2
 http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/581/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://cdn.mypanel.tv/lg/ES/Bein%20Sport%20laliga%20hd.png",beIN LaLiga HD
@@ -23,11 +29,14 @@ http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/inde
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/921322736865218566/YKvfanV8_400x400.jpg",beIN Sports España HD
 http://playlist.onlybest.tv/ru/channel/b83f90f30e3631a6ef13fc90e970a187/566/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/921322736865218566/YKvfanV8_400x400.jpg",beIN Sports España HD opc2
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/921322736865218566/YKvfanV8_400x400.jpg",beIN Sports España HD opc 2
 http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/574/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.mundodeportivo.com/r/GODO/MD/p3/Futbol/Imagenes/2016/10/18/img_hcoca_20161018-184125_imagenes_md_otras_fuentes_madridtv.jpg",Real Madrid TV HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.imaginaus.com/es/wp-content/uploads/2014/02/real-madrid.jpg" group-title="SPAIN",Real Madrid TV Opc 2
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/SFC.jpg",Sevilla FC
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?iptvgratis?chile.m3u8
@@ -35,5 +44,5 @@ http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?iptv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ca/e/e0/Barcatv_logo2004.png",BarÇa TV
 http://xxedge444.livesports.pw/live/verbarca4fe204ac48d65e8c9e0569/index.m3u8?token=XN14_DNkRZ240MLXqjtoDA&expires=1519063041
 
-#EXTINF:-1,LaLiga TV Bar HD
-http://66.70.176.48:8000/live/Xjn7EWSd1V/tdUEtw11y8/3130.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ca/e/e0/Barcatv_logo2004.png",Mundo Auto TV
+https://593b04c4c5670.streamlock.net/8702/8702/chunklist.m3u8
