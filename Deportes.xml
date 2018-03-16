@@ -39,11 +39,14 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebas
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.imaginaus.com/es/wp-content/uploads/2014/02/real-madrid.jpg" group-title="SPAIN",Real Madrid TV Opc 2
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
 
-#EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/SFC.jpg",Sevilla FC
+#EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/SFC.jpg",Sevilla FC TV
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ca/e/e0/Barcatv_logo2004.png",BarÇa TV
-http://xxedge444.livesports.pw/live/verbarca4fe204ac48d65e8c9e0569/index.m3u8?token=XN14_DNkRZ240MLXqjtoDA&expires=1519063041
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Real_betis_logo.svg/1247px-Real_betis_logo.svg.png",Betis FC TV
+http://rbetis-hls.flumotion.com/rbetis/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ca/e/e0/Barcatv_logo2004.png",Barça FC TV
+http://195.10.10.206/barcelonatv/barcelonatv-high.flv?token=78174d95560826bab4af49c77b80e9da52a2f36a52a44526&GKID=8adc4e985f2711e39eff00163ea2c744&fspref=aHR0cDovL21lZGlhMC53ZWJ0di5mbHVtb3Rpb24uY29tL2N1c3QvYmFyY2Vsb25hdHYvL3N0YXRpYy9wbGF5ZXIvYXVkaW8vY3VycmVudC9QbGF5ZXJTdHJvYmUtdmI2ZjBhYzM4LnN3Zg%3D%3D 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ca/e/e0/Barcatv_logo2004.png",Mundo Auto TV
 https://593b04c4c5670.streamlock.net/8702/8702/chunklist.m3u8
