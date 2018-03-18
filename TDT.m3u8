@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1200px-Logo_TVE-1.svg.png",La 1
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_0400_av-p.m3u8?sd=10&rebase=on
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1200px-Logo_TVE-1.svg.png",La 2
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/546.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg",Antena 3
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/615/index.m3u8
 
