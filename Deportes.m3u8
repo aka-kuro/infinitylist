@@ -1,24 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/841657248896151552/CFQkVWxP.jpg",Movistar F1
+#EXTINF:-1 tvg-logo="https://k50.kn3.net/8/C/1/8/1/A/0ED.png",Movistar F1
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/612/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Movistar_Moto_GP.svg/2000px-Movistar_Moto_GP.svg.png",Movistar Motogp
+#EXTINF:-1 tvg-logo="https://k50.kn3.net/7/A/F/6/2/2/3CC.png",Movistar Motogp
 http://playlist.onlybest.tv/ru/channel/b83f90f30e3631a6ef13fc90e970a187/613/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Movistar_Moto_GP.svg/2000px-Movistar_Moto_GP.svg.png",Movistar Motogp opc 
+#EXTINF:-1 tvg-logo="https://k50.kn3.net/7/A/F/6/2/2/3CC.png",Movistar Motogp opc 2
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/613/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Movistar_Moto_GP.svg/2000px-Movistar_Moto_GP.svg.png",Movistar Motogp opc 
-http://163.172.202.69:4022/motogphd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DnTCqMT.png" group-title="DEPORTES", Movistar Golf | FHD
+#EXTINF:-1 tvg-logo="https://k50.kn3.net/3/7/3/9/7/3/416.png", Movistar Golf
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/1200px-Movistar_F%C3%BAtbol.svg.png",Movistar Futbol HD
+#EXTINF:-1 tvg-logo="https://k50.kn3.net/5/8/D/0/1/8/117.png",Movistar Futbol
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/1200px-Movistar_F%C3%BAtbol.svg.png",Movistar Futbol HD opcion 2
+#EXTINF:-1 tvg-logo="https://k50.kn3.net/5/8/D/0/1/8/117.png",Movistar Futbol opc 2
 http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/575/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://d2jljza7x0a5yy.cloudfront.net/media/k2/items/cache/e56fe2c6ade8ff7a08cfbd6998b41ff9_XL.jpg?t=1468390616",LaLiga TV Bar HD
