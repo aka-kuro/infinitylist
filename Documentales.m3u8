@@ -12,5 +12,8 @@ http://hackveneno.tk/extremenet/stream/channels/history-q3.php?index.m3u
 #EXTINF:-1,LAT | HISTORY HD
 http://p4.giffy.be:8080/live/test12345/test12345/35171.ts
 
+#EXTINF:-1,ES: HISTORIA
+http://worldiptvbox.ddns.net:5210/live/5anJh2afQV/pmDOyN59YZ/8817.ts
+
 #EXTINF:-1,NAT GEOMUNDO
 http://p4.giffy.be:8080/live/test12345/test12345/31859.ts
