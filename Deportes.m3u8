@@ -9,7 +9,7 @@ http://playlist.onlybest.tv/ru/channel/b83f90f30e3631a6ef13fc90e970a187/613/inde
 #EXTINF:-1 tvg-logo="https://k50.kn3.net/7/A/F/6/2/2/3CC.png",Movistar Motogp opc 2
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/613/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://k50.kn3.net/3/7/3/9/7/3/416.png", Movistar Golf
+#EXTINF:-1 tvg-logo="https://k50.kn3.net/3/7/3/9/7/3/416.png",Movistar Golf
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://k50.kn3.net/5/8/D/0/1/8/117.png",Movistar Futbol
@@ -27,17 +27,20 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/inde
 #EXTINF:-1 tvg-logo="https://k50.kn3.net/7/7/D/5/2/7/745.png",LaLiga TV opc 2
 http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/581/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://k50.kn3.net/7/7/D/5/2/7/745.png",LaLiga TV opc 3
-http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/581/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://cdn.mypanel.tv/lg/ES/Bein%20Sport%20laliga%20hd.png",beIN LaLiga HD
+#EXTINF:-1 tvg-logo="https://k50.kn3.net/4/4/2/7/2/5/0F8.png",Bein La Liga HD
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/921322736865218566/YKvfanV8_400x400.jpg",beIN Sports España HD
+#EXTINF:-1 tvg-logo="https://k50.kn3.net/4/4/2/7/2/5/0F8.png",Bein La Liga HD opc 2
+http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/574/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://k50.kn3.net/9/2/A/1/4/3/2E8.png",Bein Sports
 http://playlist.onlybest.tv/ru/channel/b83f90f30e3631a6ef13fc90e970a187/566/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/921322736865218566/YKvfanV8_400x400.jpg",beIN Sports España HD opc 2
-http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/574/index.m3u8
+#EXTINF:-1 tvg-logo="https://k50.kn3.net/9/2/A/1/4/3/2E8.png",Bein Sports opc2
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/566/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://k50.kn3.net/9/2/A/1/4/3/2E8.png",Bein Sports opc 3
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.mundodeportivo.com/r/GODO/MD/p3/Futbol/Imagenes/2016/10/18/img_hcoca_20161018-184125_imagenes_md_otras_fuentes_madridtv.jpg",Real Madrid TV HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
