@@ -40,7 +40,7 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebas
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/SFC.jpg",Sevilla FC TV
-http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?iptvgratis?chile.m3u8
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/satcesc.com/web/wp-content/uploads/2017/06/Betis-TV-e1498666063509.jpg?resize=200%2C200",Betis FC TV
 http://rbetis-hls.flumotion.com/rbetis/live/playlist.m3u8
