@@ -27,10 +27,10 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/inde
 #EXTINF:-1 tvg-logo="https://k50.kn3.net/7/7/D/5/2/7/745.png",LaLiga TV opc 2
 http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/581/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://k50.kn3.net/4/4/2/7/2/5/0F8.png",Bein La Liga HD
+#EXTINF:-1 tvg-logo="https://k50.kn3.net/4/4/2/7/2/5/0F8.png",Bein La Liga
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://k50.kn3.net/4/4/2/7/2/5/0F8.png",Bein La Liga HD opc 2
+#EXTINF:-1 tvg-logo="https://k50.kn3.net/4/4/2/7/2/5/0F8.png",Bein La Liga opc 2
 http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/574/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://k50.kn3.net/9/2/A/1/4/3/2E8.png",Bein Sports
