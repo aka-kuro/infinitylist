@@ -54,69 +54,8 @@ http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
 #EXTINF:-1 tvg-logo="https://k50.kn3.net/8/B/7/C/5/4/54E.png",Betis TV
 http://rbetis-hls.flumotion.com/rbetis/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://k50.kn3.net/A/1/0/A/5/3/323.png",Barça FC TV
+#EXTINF:-1 tvg-logo="https://k50.kn3.net/A/1/0/A/5/3/323.png",Barça TV
 http://195.10.10.206/barcelonatv/barcelonatv-high.flv?token=78174d95560826bab4af49c77b80e9da52a2f36a52a44526&GKID=8adc4e985f2711e39eff00163ea2c744&fspref=aHR0cDovL21lZGlhMC53ZWJ0di5mbHVtb3Rpb24uY29tL2N1c3QvYmFyY2Vsb25hdHYvL3N0YXRpYy9wbGF5ZXIvYXVkaW8vY3VycmVudC9QbGF5ZXJTdHJvYmUtdmI2ZjBhYzM4LnN3Zg%3D%3D 
 
 #EXTINF:-1 tvg-logo="https://k50.kn3.net/7/B/C/0/B/5/6F6.png",Mundo Auto TV
 https://593b04c4c5670.streamlock.net/8702/8702/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q5E6kPJ.png" group-title="DEPORTES", Claro Sports | HD
-http://main.nrdtv.gq:2095/live/tadeosanchez/0100240/294.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zBW4BMS.jpg" group-title="DEPORTES", CableOnda Sports | HD
-http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zBW4BMS.jpg" group-title="DEPORTES", CableOnda Sports FC | HD
-http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hOYnTVm.png" group-title="DEPORTES", Olympic Channel | FHD
-https://live.olympicchannel.com/ocs/channel01b/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bpGQUNy.png" group-title="DEPORTES", NFL Now | HD
-https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_4500k.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7tmZnMy.png" group-title="DEPORTES", Viasat Sport | SD
-http://persik.by/stream/2944/263250/10249.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YyAsaqb.png" group-title="DEPORTES", DeporTV | SD
-https://564e2be0304b6.streamlock.net/DXTV/smil:DXTV/playlist.m3u8?
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x5jNF2N.png" group-title="DEPORTES", MLB | HD
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V6IwTd2.jpg" group-title="DEPORTES", Mundo Auto Television | HD
-#EXTINF:0 tvg-logo="https://i.imgur.com/MA9c6WG.png" group-title="DEPORTES", Pac-12 Arizona | FHD
-http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
-#EXTINF:0  tvg-logo="https://i.imgur.com/MA9c6WG.png" group-title="DEPORTES", Pac-12 Bay Area | FHD
-http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/MA9c6WG.png" group-title="DEPORTES", Pac-12 Los Angeles | FHD
-http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/MA9c6WG.png" group-title="DEPORTES", Pac-12 Mountain | FHD
-http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/MA9c6WG.png" group-title="DEPORTES", Pac-12 Oregon | FHD
-http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/MA9c6WG.png" group-title="DEPORTES", Pac-12 Washington | FHD
-http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VDkXBq6.png" group-title="DEPORTES", Rugby TV | SD
-http://fra01-edge01.itdc.ge/rtv/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IU8OrKh.png" group-title="DEPORTES", NBC Golf | HD
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ICm1kVG.png" group-title="DEPORTES", Fox Sports News (Australia) | HD
-https://iptv.matthuisman.nz/au/Sydney/tv.fox.sports.news.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jPW4CkF.png" group-title="DEPORTES", Eurosport 1 | HD
-http://65.254.55.10:4000/live/197/197.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jPW4CkF.png" group-title="DEPORTES", Eurosport 1 (Alt) | FHD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/159/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jPW4CkF.png" group-title="DEPORTES", Eurosport 2 | FHD
-http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/78/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jPW4CkF.png" group-title="DEPORTES", Eurosport 2 (Alt) | FHD
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/77/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ma9Kz5T.png" group-title="DEPORTES", Box Nation | SD
-http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/316/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fh7sw8g.png" group-title="DEPORTES", Premiere Sports | SD
-http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/47/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tt6fvvy.jpg" group-title="DEPORTES", Skysports 1 | FHD
-http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/737/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aPF2sGo.jpg" group-title="DEPORTES", Skysports 2 | FHD
-http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/733/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RD8lq2o.png" group-title="DEPORTES", Rai Sport | SD
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/528/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xex0vq5.jpg" group-title="DEPORTES", Sports TV | SD
-http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IJh5DjE.png" group-title="DEPORTES", Abu Dhabi Sports | SD
-http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IJh5DjE.png" group-title="DEPORTES", Abu Dhabi Sports 2 | SD
-http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
-
