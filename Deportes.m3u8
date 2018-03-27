@@ -18,6 +18,9 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/inde
 #EXTINF:-1 tvg-logo="https://k50.kn3.net/5/8/D/0/1/8/117.png",Movistar Futbol opc 2
 http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/575/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://k50.kn3.net/5/8/D/0/1/8/117.png",Movistar Futbol opc 3
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://d2jljza7x0a5yy.cloudfront.net/media/k2/items/cache/e56fe2c6ade8ff7a08cfbd6998b41ff9_XL.jpg?t=1468390616",LaLiga TV Bar HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
 
