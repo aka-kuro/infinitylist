@@ -2,15 +2,3 @@
 
 #EXTINF:-1, HISTORY CHANNEL
 http://p4.giffy.be:8080/live/test12345/test12345/35219.ts
-#EXTINF:0 type="stream" channelId="1508", DISCOVERY SCIENCE HD
-http://hackveneno.tk/extremenet/stream/channels/disc_science-q3.php?index.m3u
-#EXTINF:0 type="stream" channelId="2558", DISCOVERY THEATER HD
-http://hackveneno.tk/extremenet/stream/channels/disc_theater-q3.php?index.m3u
-#EXTINF:0 type="stream" channelId="-1", DISCOVERY TURBO HD
-http://hackveneno.tk/extremenet/stream/channels/disc_turbo-q4.php?index.m3u
-#EXTINF:0 type="stream" channelId="341", DISCOVERY CHANNEL HD
-http://hackveneno.tk/extremenet/stream/channels/disc_ch-q3.php?index.m3u
-#EXTINF:0 type="stream" channelId="-1", DISCOVERY TLC HD
-http://hackveneno.tk/extremenet/stream/channels/tlc-q3.php?index.m3u
-#EXTINF:0 type="stream" channelId="-1", EL GOURMET HD
-http://hackveneno.tk/extremenet/stream/channels/elgourmet-q3.php?index.m3u
