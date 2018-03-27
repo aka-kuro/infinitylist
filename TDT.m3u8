@@ -33,19 +33,19 @@ http://iptvp.cf/emision/lasexta.m3u8
 #EXTINF:-1 tvg-logo="https://k50.kn3.net/E/2/7/4/7/2/C33.png",La Sexta opc 2
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.formulatv.com/images/noticias/52100/52199/1_517bdcfe12.jpg",Atreseries
+#EXTINF:-1 tvg-logo="https://k50.kn3.net/A/0/E/3/9/5/5CD.png",Atreseries
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_1_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="http://www.formulatv.com/images/noticias/52100/52199/1_517bdcfe12.jpg",Atreseries apc 2
+#EXTINF:-1 tvg-logo="https://k50.kn3.net/A/0/E/3/9/5/5CD.png",Atreseries apc 2
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2000px-Neox.svg.png",Neox
+#EXTINF:-1 tvg-logo="https://k50.kn3.net/C/C/7/0/E/B/1C6.png",Neox
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_logo_2010.png",Nova
+#EXTINF:-1 tvg-logo="https://k50.kn3.net/3/B/C/7/7/A/7B7.png",Nova
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/media/efcc6e05c16879f7b1903cec874f640e.jpeg",Mega
+#EXTINF:-1 tvg-logo="https://k50.kn3.net/B/7/E/0/7/3/E58.png",Mega
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1200px-Be_Mad_TV.svg.png",Be mad
