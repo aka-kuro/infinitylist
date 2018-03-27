@@ -33,25 +33,25 @@ http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/inde
 #EXTINF:-1 tvg-logo="https://k50.kn3.net/4/4/2/7/2/5/0F8.png",Bein La Liga opc 2
 http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/574/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://k50.kn3.net/4/4/2/7/2/5/0F8.png",Bein La Liga opc 3
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://k50.kn3.net/9/2/A/1/4/3/2E8.png",Bein Sports
 http://playlist.onlybest.tv/ru/channel/b83f90f30e3631a6ef13fc90e970a187/566/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://k50.kn3.net/9/2/A/1/4/3/2E8.png",Bein Sports opc2
+#EXTINF:-1 tvg-logo="https://k50.kn3.net/9/2/A/1/4/3/2E8.png",Bein Sports opc 2
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/566/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://k50.kn3.net/9/2/A/1/4/3/2E8.png",Bein Sports opc 3
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.mundodeportivo.com/r/GODO/MD/p3/Futbol/Imagenes/2016/10/18/img_hcoca_20161018-184125_imagenes_md_otras_fuentes_madridtv.jpg",Real Madrid TV HD
+#EXTINF:-1 tvg-logo="https://k50.kn3.net/B/8/3/7/5/A/582.png",Real Madrid TV HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.imaginaus.com/es/wp-content/uploads/2014/02/real-madrid.jpg" group-title="SPAIN",Real Madrid TV Opc 2
+#EXTINF:-1 tvg-logo="https://k50.kn3.net/B/8/3/7/5/A/582.png",Real Madrid TV Opc 2
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
 
-#EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/SFC.jpg",Sevilla FC TV
+#EXTINF:-1 tvg-logo="https://k50.kn3.net/F/D/2/6/B/C/49E.png",Sevilla TV
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/satcesc.com/web/wp-content/uploads/2017/06/Betis-TV-e1498666063509.jpg?resize=200%2C200",Betis FC TV
+#EXTINF:-1 tvg-logo="https://k50.kn3.net/8/B/7/C/5/4/54E.png",Betis TV
 http://rbetis-hls.flumotion.com/rbetis/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ca/e/e0/Barcatv_logo2004.png",Barça FC TV
