@@ -1,36 +1,36 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1200px-Logo_TVE-1.svg.png",La 1
+#EXTINF:-1 tvg-logo="https://k50.kn3.net/5/B/2/8/4/6/E82.png",La 1
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_0400_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1200px-Logo_TVE-1.svg.png",La 2
+#EXTINF:-1 tvg-logo="https://k50.kn3.net/5/5/A/4/7/D/771.png",La 2
 http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/546.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg",Antena 3
+#EXTINF:-1 tvg-logo="https://k50.kn3.net/4/0/2/9/5/2/DF6.png",Antena 3
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/615/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg",Antena 3 opc2
+#EXTINF:-1 tvg-logo="https://k50.kn3.net/4/0/2/9/5/2/DF6.png",Antena 3 opc2
 http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg",Antena 3 internacional
+#EXTINF:-1 tvg-logo="https://k50.kn3.net/4/0/2/9/5/2/DF6.png",Antena 3 internacional
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2017/10/30/ixbI2ViShbP7QrJPB8OPD2.jpg?w=1024",Cuatro
+#EXTINF:-1 tvg-logo="https://k50.kn3.net/A/7/7/2/4/D/9F5.png",Cuatro
 http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream2/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2017/10/30/ixbI2ViShbP7QrJPB8OPD2.jpg?w=1024",Cuatro opc 2
+#EXTINF:-1 tvg-logo="https://k50.kn3.net/A/7/7/2/4/D/9F5.png",Cuatro opc 2
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/616/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Telecinco_2012.svg/1024px-Telecinco_2012.svg.png",Telecinco
+#EXTINF:-1 tvg-logo="https://k50.kn3.net/4/2/C/1/1/8/840.png",Telecinco
 http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream2/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Telecinco_2012.svg/1024px-Telecinco_2012.svg.png",Telecinco opc 2
+#EXTINF:-1 tvg-logo="https://k50.kn3.net/4/2/C/1/1/8/840.png",Telecinco opc 2
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/617/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png",La Sexta
+#EXTINF:-1 tvg-logo="https://k50.kn3.net/E/2/7/4/7/2/C33.png",La Sexta
 http://iptvp.cf/emision/lasexta.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png",La Sexta opc 2
+#EXTINF:-1 tvg-logo="https://k50.kn3.net/E/2/7/4/7/2/C33.png",La Sexta opc 2
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.formulatv.com/images/noticias/52100/52199/1_517bdcfe12.jpg",Atreseries
