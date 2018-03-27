@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1,[PELICULAS Toho TV] [
 
-#EXTINF:-1, HD
-
-#EXTINF:0,################LISTA DE PELICULAS#####################
 #EXTINF:-1 tvg-logo="http://www.yucatanalinstante.com/wp-content/uploads/2017/12/maxresdefault-1.jpg" group-title="CINE", Jumanji: En la selva
 https://storage.googleapis.com/dragons-feel-28510.appspot.com/videos/Jumanji%3A%20En%20la%20selva.2017.tshq.latino.gnula.v3.mp4
  
