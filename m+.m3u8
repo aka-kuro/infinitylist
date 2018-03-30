@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1,MOVISTAR ACCION HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/576/index.m3u8
+
+#EXTINF:-1,MOVISTAR COMEDIA
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/606/index.m3u8
+
+#EXTINF:-1,MOVISTAR COMEDIA HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/580/index.m3u8
+
+#EXTINF:-1,MOVISTAR DCINE
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8
